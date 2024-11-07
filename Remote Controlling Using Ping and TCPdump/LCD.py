@@ -1,3 +1,4 @@
+#Use LCD2.py, this code does not work properly.
 #!/usr/bin/env python3
 import RPi.GPIO as GPIO
 from time import sleep
